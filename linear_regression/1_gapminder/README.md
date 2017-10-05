@@ -1,4 +1,5 @@
-###You'll need to complete each of the following steps:
+### You'll need to complete each of the following steps:
+
 1. Load the data
 The data is in the file called "bmi_and_life_expectancy.csv".
 Use pandas read_csv to load the data into a dataframe.
