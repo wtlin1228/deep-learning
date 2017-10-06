@@ -32,3 +32,5 @@
 + only_backpropagation
 
 + update_the_weight
+
+### 8. Project1: first-neural-network
