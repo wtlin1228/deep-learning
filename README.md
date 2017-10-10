@@ -34,3 +34,7 @@
 + update_the_weight
 
 ### 8. Project1: first-neural-network
+
+### 9. sentiment classification little project
+
+### 10. miniflow 
