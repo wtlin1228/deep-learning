@@ -42,3 +42,5 @@
 + add
 
 + advanced_add_mul
+
++ learning_and_loss
