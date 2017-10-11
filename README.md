@@ -44,3 +44,9 @@
 + advanced_add_mul
 
 + learning_and_loss
+
++ linear_transform
+
++ sigmoid_function
+
++ cost
