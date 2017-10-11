@@ -37,4 +37,8 @@
 
 ### 9. sentiment classification little project
 
-### 10. miniflow 
+### 10. miniflow
+
++ add
+
++ advanced_add_mul
