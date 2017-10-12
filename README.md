@@ -54,3 +54,5 @@
 + gradient_descent
 
 + backpropagation
+
++ stochastic_gradient_descent
