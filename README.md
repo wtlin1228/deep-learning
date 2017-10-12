@@ -50,3 +50,7 @@
 + sigmoid_function
 
 + cost
+
++ gradient_descent
+
++ backpropagation
