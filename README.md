@@ -64,3 +64,9 @@
 + tensorflow_input
 
 + tensorflow_math
+
++ tensorflow_linear_function
+
++ tensorflow_softmax
+
++ tensorflow_cross_entropy
