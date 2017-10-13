@@ -11,7 +11,8 @@ def run():
     # softmax =
 
     with tf.Session() as sess:
-    # TODO: Feed in the logit data
-    # output = sess.run(softmax,    )
+        # TODO: Feed in the logit data
+        # output = sess.run(softmax,    )
+        pass
 
     return output
