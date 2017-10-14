@@ -2,3 +2,6 @@
 /.vscode/
 /.idea/
 
+/11_intro_to_tensorflow/9_lab/notMNIST_test.zip
+/11_intro_to_tensorflow/9_lab/notMNIST.pickle
+/11_intro_to_tensorflow/9_lab/notMNIST_train.zip
