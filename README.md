@@ -70,3 +70,9 @@
 + tensorflow_softmax
 
 + tensorflow_cross_entropy
+
++ mini_batch
+
++ tensorflow_mini_batch
+
++ lab
