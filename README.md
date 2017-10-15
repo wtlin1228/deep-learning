@@ -76,3 +76,13 @@
 + tensorflow_mini_batch
 
 + lab
+
+### 12. deep_neural_networks
+
++ tensorflow_ReLUs
+
++ multilayer_perceptron
+
++ save_and_restore
+
++ dropout
