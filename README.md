@@ -86,3 +86,11 @@
 + save_and_restore
 
 + dropout
+
+### 13_convolutional_networks
+
++ cnn_example
+
++ tensorflow_convolution_layer
+
++ tensorflow_pooling_layer
