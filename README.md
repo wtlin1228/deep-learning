@@ -87,10 +87,14 @@
 
 + dropout
 
-### 13_convolutional_networks
+### 13. convolutional_networks
 
 + cnn_example
 
 + tensorflow_convolution_layer
 
 + tensorflow_pooling_layer
+
+### 14. weight_initialization
+
+### 15. Project2: image_classification
