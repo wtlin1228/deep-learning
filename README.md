@@ -102,3 +102,7 @@
 ### 16. autoencoder
 
 ### 17. transfer_learning
+
+### 18. intro_to_rnn
+
+### 19. word2vec
