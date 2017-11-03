@@ -106,3 +106,5 @@
 ### 18. intro_to_rnn
 
 ### 19. word2vec
+
+### 20. sentiment_network
