@@ -107,4 +107,4 @@
 
 ### 19. word2vec
 
-### 20. sentiment_network
+### 20. sentiment_rnn
